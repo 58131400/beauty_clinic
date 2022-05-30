@@ -1,0 +1,8 @@
+{
+    "username": "Mời bạn nhập tên tài khoản",
+    "password": "Mời bạn nhập mật khẩu",
+    "login":"Đăng nhập",
+    "clear":"Nhập lại",
+    "noAccount":"Chưa có tài khoản ?",
+    "register": "Đăng kí"
+}

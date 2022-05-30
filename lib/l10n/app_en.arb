@@ -1,0 +1,9 @@
+{
+    "username": "Enter your Username!",
+    "password": "Enter your Password!",
+    "login":"Login",
+    "clear":"Clear",
+    "noAccount":"Don't have account?",
+    "register": "Register"
+    
+}
